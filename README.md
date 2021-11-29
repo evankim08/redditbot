@@ -115,7 +115,7 @@ URL Post Count = 136
 Top Comment Reply Count = 134
 ```
 
-**Extra Credit #7 :** Below is the output from running the final iteration of my `upvotebot.py` program, which used _TextBlob Sentiment Analysis_ to upvote any comment or submission that mentioned _Arnold_ or _Schwarzenegger_ with positive sentiment, and downvoted those with negative sentiment. Since there were not many submissions that mentioned Arnold Schwarzenegger, I also wrote the program so that it downvoted any mention of either _Trump_ or _Biden_. By the final iteration of the program, there were 500+ comments and 100+ submissions upvoted or downvoted, as desired. 
+**Extra Credit #7 :** Below is the output from running the final iteration of my `upvotebot.py` program, which used _TextBlob Sentiment Analysis_ to upvote any comment or submission that mentioned _Arnold_ or _Schwarzenegger_ with positive sentiment, and downvoted those with negative sentiment. Since there were not many submissions that mentioned Arnold Schwarzenegger, I also wrote the program so that it downvoted any mention of either _Trump_ or _Biden_, as this funnels publicity away from Arnold. By the final iteration of the program, there were 500+ comments and 100+ submissions upvoted or downvoted, as desired. 
 
 ```
 Current Comment Upvote Count = 8277
