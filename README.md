@@ -99,7 +99,7 @@ valid_comments= 588
 ========================================
 ```
 
-**Extra Credit #1 - 4 :** Below is the output of running `submissionbot.py`. This bot created new submission posts instead of just new comments. These submissions were pulled from _r/Showerthoughts_ and _r/LifeProTips_ and posted into the class subreddit _r/BotTown2_. By the final iteration, the bot had generated 278 unique submissions, some of which were self-posts and some of which were URL posts, as desired. 
+**Extra Credit #4 :** Below is the output of running `submissionbot.py`. This bot created new submission posts instead of just new comments. These submissions were pulled from _r/Showerthoughts_ and _r/LifeProTips_ and posted into the class subreddit _r/BotTown2_. By the final iteration, the bot had generated 278 unique submissions, some of which were self-posts and some of which were URL posts, as desired. 
 
 ```
 Self-Post Count = 142
