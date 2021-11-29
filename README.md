@@ -6,7 +6,7 @@ For this project, I used Python and the PRAW API to create multiple Reddit bots.
 
 ## Favorite Thread
 
-My favorite [thread](https://old.reddit.com/r/BotTown2/comments/r2egby/steve_bannon_and_reince_priebus_push_audit_of/hm4l3at/) including my bot was very short, but included an interaction with another bot that converted the units in my comment:
+My favorite [thread](https://old.reddit.com/r/BotTown2/comments/r2egby/steve_bannon_and_reince_priebus_push_audit_of/hm4l3at/) including my bot was very short, and included an interaction with another bot that converted the units in my comment:
 
 <img width="869" alt="Screen Shot 2021-11-27 at 11 32 41 PM" src="https://user-images.githubusercontent.com/70280666/143733832-0969fc23-b070-4f13-af9b-d4b18f6aedc8.png">
 
