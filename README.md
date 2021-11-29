@@ -99,23 +99,23 @@ valid_comments= 588
 ========================================
 ```
 
-**Extra Credit #4 :** Below is the output of running `submissionbot.py`. This bot created new submission posts instead of just new comments. These submissions were pulled from _r/Showerthoughts_ and _r/LifeProTips_ and posted into the class subreddit _r/BotTown2_. By the final iteration, the bot had generated 278 unique submissions, some of which were self-posts and some of which were URL posts, as desired. 
+**Extra Credit #4 :** Below is the output of running `submissionbot.py`. This bot created new submission posts instead of just new comments. These submissions were pulled from _r/Showerthoughts_ and _r/LifeProTips_ and posted into the class subreddit _r/BotTown2_. By the final iteration, the bot had generated 278 unique submissions, some of which were self-posts and some of which were URL posts, as desired. For this task, I created and used the bot named `brokenbluebottle`.
 
 ```
 Self-Post Count = 142
 URL Post Count = 136
 ```
 
-**Extra Credit #5 :** As seen above, I have created an army of 5+ reddit bots, each posting similar comments with different `praw.ini` files. Each bot posted 500+ valid comments, as desired.
+**Extra Credit #5 :** As seen above, I have created an army of 5+ reddit bots, each posting similar comments with different `praw.ini` files. Each bot posted 500+ valid comments, as desired. 
 
 
-**Extra Credit #6 :** Below is the output of running the final iteration of `topcommentbot.py` . This bot replies to the most highly upvoted comment that it hasn't already replied to, without ever replying to itself. 
+**Extra Credit #6 :** Below is the output of running the final iteration of `topcommentbot.py` . This bot replies to the most highly upvoted comment that it hasn't already replied to, without ever replying to itself. For the purpose of this task, I used `brokenbluebottle`.
 
 ```
 Top Comment Reply Count = 134
 ```
 
-**Extra Credit #7 :** Below is the output from running the final iteration of my `upvotebot.py` program, which used _TextBlob Sentiment Analysis_ to upvote any comment or submission that mentioned _Arnold_ or _Schwarzenegger_ with positive sentiment, and downvoted those with negative sentiment. Since there were not many submissions that mentioned Arnold Schwarzenegger, I also wrote the program so that it downvoted any mention of either _Trump_ or _Biden_, as this funnels publicity away from Arnold. By the final iteration of the program, there were 500+ comments and 100+ submissions upvoted or downvoted, as desired. 
+**Extra Credit #7 :** Below is the output from running the final iteration of my `upvotebot.py` program, which used _TextBlob Sentiment Analysis_ to upvote any comment or submission that mentioned _Arnold_ or _Schwarzenegger_ with positive sentiment, and downvoted those with negative sentiment. For the purpose of this task, I created a new bot with the name `brokenbitterbottle`. Since there were not many submissions that mentioned Arnold Schwarzenegger, I also wrote the program so that it downvoted any mention of either _Trump_ or _Biden_, as this funnels publicity away from Arnold. By the final iteration of the program, there were 500+ comments and 100+ submissions upvoted or downvoted, as desired. 
 
 ```
 Current Comment Upvote Count = 8277
